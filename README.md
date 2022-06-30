@@ -1,4 +1,4 @@
-### WatchMe React
+### HookCart
 
 Hook de Carrinho de compras, desenvolvido em React usando json-server
 
